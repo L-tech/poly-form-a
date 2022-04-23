@@ -1,0 +1,20 @@
+{
+    "name": "Polygon Abuja Guild",
+    "description": "A monthly meeting of the polygon Abuja Guild",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZW9cfKPz8Gbq2Hbqn8hA3RwwyFnBpss2fqDvW79wuJkr",
+    "attributes": [
+      {
+        "trait_type": "Devs",
+        "value": "120"
+      },
+      {
+        "trait_type": "Twitter",
+        "value": "https://twitter.com/PolygonAbuja"
+      },
+      {
+        "trait_type": "Motive",
+        "value": "decentralization"
+      } 
+
+    ]
+  }
